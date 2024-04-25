@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-' This repository contains a VB.NET project for building a movie recommendation system. The system uses various libraries and tools for text processing and recommendation.
+This repository contains a project for building a movie recommendation system. The system uses various libraries and tools for text processing and recommendation.
 
 ### Libraries Used
 - **NumPy (np)**: NumPy is used for numerical computing and array operations.
@@ -18,8 +18,10 @@ This project aims to recommend movies to users based on their preferences and si
 
 2. Install the required dependencies.
 
+3. Run the project to generate movie recommendations for users.
+
 ### Files
-- **MovieRecommendationSystem.vb**: VB.NET project containing the implementation of the movie recommendation system.
+- **MovieRecommendationSystem.py**: Python script containing the implementation of the movie recommendation system.
 
 ### Dataset
 The dataset contains movie descriptions and user preferences. It is not included in this repository.
